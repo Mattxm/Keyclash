@@ -1,6 +1,6 @@
 # Keyclash
 
-A multiplayer typing game created in Unreal Engine 4. This project was created for a class.
+A multiplayer typing game created in Unreal Engine 4.
 
 ## Features
 * Matchmaking
